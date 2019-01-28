@@ -1,0 +1,78 @@
+h1 {
+  color:rgb(52,192,36);
+  background-color:rgb(10,10,10);
+  box-shadow: 3px 3px 3px 3px rgb(150,150,150);
+}
+Header{
+  font-size:105%;
+  background-color:rgb(179,174,174);
+  border-style: solid;
+  border-width: 3px;
+  box-shadow: 3px 3px 3px 3px rgb(179,174,174);
+  font-weight: bold;
+  text-emphasis-color: rgb(52,192,36)
+
+}
+Section{
+  background-color:rgb(106,151,185);
+  padding-bottom:10px;
+  box-shadow: 5px 5px 5px 5px rgb(10,10,10)
+}
+Table,
+td {
+  font-weight:bold;
+  border-style: groove;
+  border-width: 3px;
+  border-color: rgb(25,60,25);
+  color:rgb(90,90,90);
+  margin-left:25px;
+  background-color: rgb(270,270,270);
+  box-shadow: 1px 1px 1px 1px rgb(10,10,10)
+}
+.highlight {
+  color:rgb(90,90,90)
+}
+.table-format{
+  table-layout: auto;
+  width: 150px;
+  border-style: double;
+  border-width: 8px;
+  border-color: rgb(179,174,174);
+  padding-right: 10%;
+  box-shadow: 5px 5px 5px 5px rgb(150,150,150)
+}
+.go-huskies{
+  background-color:rgb(125,31,148);
+  padding-bottom:2px;
+  padding-top:2px;
+  padding-left: 25%;
+  box-shadow: 5px 5px 5px 5px rgb(10,10,10);
+}
+.husky {
+  color:gold;
+  font-style:oblique;
+  font-weight:bold;
+}
+.narrative-color{
+  color:rgb(35,35,35)
+}
+.table-text-color{
+  color:rgb(260,192,36)
+}
+.picture-page{
+  background-color: rgb(84,132,129);
+  padding-bottom: 5px;
+}
+.rotateimg90 {
+  transform: rotate(90deg);
+  padding-bottom: 50px;
+}
+footer{
+  background-color:rgb(179,174,174);
+  border-style:dashed;
+  border-width: 3px;
+  font-size: 75%;
+  margin-top: 25px;
+  box-shadow: 5px 5px 5px 5px rgb(10,10,10);
+  font-style:oblique;
+}
